@@ -1,0 +1,31 @@
+{
+  "name": "results-manager",
+  "version": "0.1.1",
+  "description": "Controlador de resultados para un listado o tabla proveniente de una api en formato json",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PowerOnSystem/ResultsManager.git"
+  },
+  "keywords": [
+    "results",
+    "manager",
+    "list",
+    "table"
+  ],
+  "author": "PowerOn Sistemas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PowerOnSystem/ResultsManager/issues"
+  },
+  "homepage": "https://github.com/PowerOnSystem/ResultsManager#readme",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
